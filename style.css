@@ -1,0 +1,91 @@
+.c-height{
+    height:40vh;
+    background-color: beige;
+}
+.main-box{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    background-color: gray;}
+    .child-box{
+        height: 80px;
+        width:80px;
+        position: absolute;
+    }
+
+    .box-1{
+        background: blue;
+        left: 40px;
+        z-index: 1;
+    }
+    .box-2{
+        background: red;
+        z-index: 2;
+    }
+    .alert-primary{
+        background: black;
+    }
+    .text-bg-secondary {
+        background: rgb(0, 255, 13);
+    }
+    .h4, .h5, .h6, h1,  h4, h5{
+        color: red;
+    }
+    .h2, .h3, h2, h3,{
+        color:black
+    }
+    .btn-primary{
+        background: red;
+    }
+    .btn-primary:hover{
+        background: rgb(34, 255, 0);
+    }
+    .text-bg-secondary{
+        color:red;
+        background: green;
+    }
+    .btn-primary{
+        background: rgb(107, 5, 216);
+    }
+
+
+   .btn-primary{
+    background: red;
+    border: green;
+    color: black;
+   }
+   .btn-primary:hover{
+    background: rgb(0, 255, 51);
+    border: rgb(128, 0, 0);
+    color: blue;
+   }
+ .btn-link{
+    background: gray;
+ } 
+ .btn-outline-light{
+    color: white;
+ }
+
+.page-link {
+    color: blueviolet;
+}
+.btn-primary{
+    background: blue;
+    color: white;
+    justify-content: center;
+}
+
+.btn-primary:hover{
+    background: rgb(111, 111, 116);
+    color: rgb(12, 12, 12);
+}
+.btn{
+    margin-top: 100px;
+    
+}
+
+.carousel-indicators{
+    background: black;
+   
+}
+
